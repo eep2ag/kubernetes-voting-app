@@ -1,1 +1,1 @@
-# kubernetes-voting-app mpla mpla
+# kubernetes employing docker voting-app stack
